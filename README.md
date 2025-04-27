@@ -22,5 +22,8 @@
 1. Assemble the hardware listed above.
 2. Install [Thonny.](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/2)
 3. Flash your Pico with [MicroPython.](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3)
-4. Copy all files in the `src` directory to the root level of your Pico's filesystem.
-5. Press the Run button or F5 in Thonny.
+4. Show the file browser in Thonny using view > files.
+5. Navigate to the src directory on your local machine.
+6. Select all files inside the folder and right click > copy to /.
+7. Now open main.py on the pico by double clicking.
+8. Click run to start the game.
